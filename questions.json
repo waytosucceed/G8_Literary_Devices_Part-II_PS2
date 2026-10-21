@@ -1,0 +1,49 @@
+{
+  "heading": "G8_Literary Devices Part II(Writing)",
+  "topics": [
+    {
+      "heading": "Literary Devices Part II(Writing)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "type": "short",
+          "question": "Create a sentence with the word “Impresario”",
+          "text_area": "",
+          "answer": ["The impresario orchestrated the entire opera season with flair, ensuring each performance dazzled both critics and crowds."]
+        },
+        {
+          "questionNo": 2,
+          "type": "short",
+          "question": "Create a sentence with the word “Incomprehensible”",
+          "text_area": "",
+          "answer": ["To the villagers, the scientist’s explanation of quantum entanglement was utterly incomprehensible, like trying to read stars in daylight."]
+        },
+        {
+          "questionNo": 3,
+          "type": "short",
+          "question": "Create a sentence with the word “Hallowed”",
+          "text_area": "",
+          "answer": ["They walked in silence through the hallowed halls of the old university, where generations of thinkers had once debated truth and reason."]
+        },
+        {
+          "questionNo": 4,
+          "type": "short",
+          "question": "Create a sentence with the word “Spectatorship”",
+          "text_area": "",
+          "answer": ["Modern spectatorship has evolved beyond passive viewing, demanding interaction, immersion, and emotional investment."]
+        },
+     
+        {
+          "questionNo": 5,
+          "type": "long",
+          "question": "<b>Have you tried any art forms – painting, music, singing, dancing, etc.? Write your experience, sharing what you liked and why.</b><br>Try to use any of the following literary devices:<ul><li>Allusion</li><li>Irony</li><li>Juxtaposition</li><li>Oxymoron</li></ul>",
+
+          "text_area": "",
+          "answer": [""]
+        }
+
+
+      ]
+    }
+  ]
+}
